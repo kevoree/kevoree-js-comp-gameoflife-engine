@@ -8,4 +8,3 @@ add node0.myComp : org.kevoree.library.GameOfLifeEngine
 attach node0 sync
 
 set node0.logLevel = 'DEBUG'
-set node0.myComp.yourAttrName = 'nonDefaultValue'
